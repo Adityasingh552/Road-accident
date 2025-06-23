@@ -59,16 +59,17 @@ The dataset includes the following columns:
 
 ## 📂 Project Structure
 
+```
 📦 road-accident-analysis
 ├── data/
-│ └── Road_accident.csv
+│   └── Road_accident.csv
 ├── notebooks/
-│ └── Road_Accident_Analysis.ipynb
-├── road_accident_model.pkl # Optional: ML model for experimentation
-├── app.py # (If Streamlit app used for demo)
+│   └── Road_Accident_Analysis.ipynb
+├── road_accident_model.pkl      # Optional: ML model for experimentation
+├── app.py                       # (If Streamlit app used for demo)
 ├── requirements.txt
 └── README.md
-
+```
 
 
 ---
